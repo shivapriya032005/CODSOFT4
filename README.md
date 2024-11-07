@@ -17,3 +17,6 @@ The Password Generator creates secure, random passwords based on user preference
 3. Run the script:
 -`python password_generator.py`
 
+## Author
+**Lalitha Shivapriya Sriramoju**  
+If you have any questions, feel free to reach out at shivapriya032005@gmail.com .
